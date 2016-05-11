@@ -1,0 +1,2 @@
+analysis	groups	P_threshold_group	contrasts	P_threshold_contrast		
+ACR503003	SIR3003	5e-5	SIR3003/PBO3003	5e-8
